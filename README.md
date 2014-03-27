@@ -2,8 +2,7 @@
 http://www.gaycoin.eu/
 
 ## What is GayCoin?
-Gaycoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://www.gaycoin.eu
+Gaycoin is like Bitcoin, but based on Litecoin. http://www.gaycoin.eu
 
 ## License
 GayCoin is released under the terms of the MIT license. See [COPYING](COPYING)
