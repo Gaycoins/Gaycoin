@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Bitcoin</source>
+        <source>About Gaycoin</source>
         <translation>За Биткоин</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="53"/>
-        <source>&lt;b&gt;Bitcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Gaycoin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;Биткоин&lt;/b&gt; версия</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Address: %4
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>BTC</source>
+        <source>GAY</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1275,8 +1275,8 @@ Address: %4
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="113"/>
-        <source>123.456 BTC</source>
-        <translation>123.456 BTC</translation>
+        <source>123.456 GAY</source>
+        <translation>123.456 GAY</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="144"/>
