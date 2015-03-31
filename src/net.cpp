@@ -363,7 +363,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
         //  <?php echo $_SERVER["REMOTE_ADDR"]; ?>
         if (nHost == 1)
         {
-            addrConnect = CService("85.92.63.16",80); // checkip.dyndns.org
+            addrConnect = CService("91.109.38.231",80); // checkip.dyndns.org
 
             if (nLookup == 1)
             {
@@ -382,7 +382,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
         }
         else if (nHost == 2)
         {
-            addrConnect = CService("85.92.63.16", 80); // www.showmyip.com
+            addrConnect = CService("91.109.38.231", 80); // www.showmyip.com
 
             if (nLookup == 1)
             {
@@ -1151,7 +1151,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
        // default hypernode dns seed , change later when network grows
-       {"seed.gayftw.com", "seed.gayftw.com"},
+       {"seed.gaycoin.eu", "seed.gaycoin.eu"},
     // {"gaycoinpool.org", "dnsseed.gaycoinpool.org"},
     // {"bytesized-vps.com", "dnsseed.bytesized-vps.com"},
     // {"xurious.com", "dnsseed.ltc.xurious.com"},
